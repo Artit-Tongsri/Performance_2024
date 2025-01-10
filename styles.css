@@ -1,0 +1,390 @@
+body {
+    background-color: #276678;
+}
+
+/* เส้นขั้นหน้าจอ */
+hr {
+    border-style: dotted none none;
+    border-width: 3px;
+    color:  #333333;
+    width: 40%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* PERFORMANC REVIEW */
+.text0 table {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://img.foodlogistics.com/files/base/acbm/scn/image/2022/02/Blue_Planet_Studio___stock.adobe.com.61fd63d9aa2c0.png?auto=format&h=717&q=70&w=1280");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: none;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+}
+
+/* .text0 thead {} */
+
+.text0 th {
+    color: #276678;
+}
+
+.text0 h1 {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-color: rgba(255, 255, 255, 0.700);
+    border-radius: 15px;
+    width: 100%;
+    display: inline;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.text0 img {
+    box-shadow: 0 4px 8px rgba(255, 0, 0, 0.855);
+    border-radius: 50%;
+    width: 120px;
+}
+
+/* Body PERFORMANC REVIEW */
+.text1 table {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://png.pngtree.com/background/20220726/original/pngtree-abstract-white-technology-background-concept-with-various-data-hi-tech-computer-picture-image_1796907.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: 1px red;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+}
+
+.text1 th,
+td {
+    height: 1px;
+    padding: 10px;
+}
+
+.text1 tbody {
+    font-family: Courier;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #276678;
+}
+
+.text1 p {
+    text-align: right;
+}
+
+.text1 input {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 30px;
+    /* กำหนดความกว้าง */
+    height: 30px;
+    /* กำหนดความสูง */
+}
+
+/* Head การประเมินตนเอง */
+.text2 h1 {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://img.foodlogistics.com/files/base/acbm/scn/image/2022/02/Blue_Planet_Studio___stock.adobe.com.61fd63d9aa2c0.png?auto=format&h=717&q=70&w=1280");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: none;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.text2 p {
+    background-color: rgba(255, 255, 255, 0.700);
+    color: #276678;
+    border-width: 40%;
+    border-radius: 15px;
+    display: inline;
+    padding: 10px 15px;
+}
+
+/* Body การประเมินตนเอง */
+.text3 table {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://png.pngtree.com/background/20220726/original/pngtree-abstract-white-technology-background-concept-with-various-data-hi-tech-computer-picture-image_1796907.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: 1px red;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+    align-items: center;
+}
+
+.text3 tbody {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #276678;
+}
+
+.text3 td {
+    padding: 20px;
+}
+
+.text3 p {
+    background-color: rgba(255, 255, 255, 0.700);
+    border-radius: 15px;
+    padding: 10px 10px;
+    display: inline;
+    text-align: center;
+
+}
+
+.text3 input {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 30px;
+    /* กำหนดความกว้าง */
+    height: 30px;
+    /* กำหนดความสูง */
+    vertical-align: middle;
+}
+
+/* Head ประเมินภาพรวมของตนเองด้านจุดแข็งและสิ่งที่ต้องปรับปรุง */
+
+.text4 h1 {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://img.foodlogistics.com/files/base/acbm/scn/image/2022/02/Blue_Planet_Studio___stock.adobe.com.61fd63d9aa2c0.png?auto=format&h=717&q=70&w=1280");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: none;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.text4 p {
+    background-color: rgba(255, 255, 255, 0.700);
+    color: #276678;
+    border-width: 40%;
+    border-radius: 15px;
+    display: inline;
+    padding: 10px 15px;
+}
+
+/* Body ประเมินภาพรวมของตนเองด้านจุดแข็งและสิ่งที่ต้องปรับปรุง */
+
+.text5 table {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://png.pngtree.com/background/20220726/original/pngtree-abstract-white-technology-background-concept-with-various-data-hi-tech-computer-picture-image_1796907.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: 1px red;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+    align-items: center;
+}
+
+.text5 tbody {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #276678;
+}
+
+.text5 td {
+    text-align: center;
+}
+
+.text5 p {
+    border-width: 40%;
+    border-radius: 15px;
+    display: inline;
+    padding: 10px 15px;
+}
+
+.p {
+    background-color: rgba(255, 255, 255, 0.700);
+    color: red;
+}
+
+/* Head สิ่งที่ได้เรียนรู้ในช่วงทดลองงานหรือช่วงปี */
+
+.text6 h1 {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://img.foodlogistics.com/files/base/acbm/scn/image/2022/02/Blue_Planet_Studio___stock.adobe.com.61fd63d9aa2c0.png?auto=format&h=717&q=70&w=1280");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: none;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.text6 p {
+    background-color: rgba(255, 255, 255, 0.700);
+    color: #276678;
+    border-width: 40%;
+    border-radius: 15px;
+    display: inline;
+    padding: 10px 15px;
+}
+
+/* Body สิ่งที่ได้เรียนรู้ในช่วงทดลองงานหรือช่วงปี */
+.text7 table {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://png.pngtree.com/background/20220726/original/pngtree-abstract-white-technology-background-concept-with-various-data-hi-tech-computer-picture-image_1796907.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: none;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+}
+
+.img1 {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    border-radius: 15px;
+    width: 100%;
+}
+
+.text7 tbody {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #276678;
+}
+
+.text7 td {
+    padding: 10px 20px;
+    white-space: nowrap;
+}
+
+.text7 p {
+    background-color: rgba(255, 255, 255, 0.700);
+    color: #276678;
+    border-width: 40%;
+    border-radius: 15px;
+    display: inline;
+    padding: 10px 15px;
+}
+
+/* Head ผลลัพธ์ของงานในช่วงทดลองงานหรือช่วงปี #1 */
+.text8 h1 {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://img.foodlogistics.com/files/base/acbm/scn/image/2022/02/Blue_Planet_Studio___stock.adobe.com.61fd63d9aa2c0.png?auto=format&h=717&q=70&w=1280");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: none;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.text8 p {
+    background-color: rgba(255, 255, 255, 0.700);
+    color: #276678;
+    border-width: 40%;
+    border-radius: 15px;
+    display: inline;
+    padding: 10px 15px;
+}
+
+/* Body ผลลัพธ์ของงานในช่วงทดลองงานหรือช่วงปี #1 */
+.text9 table {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    background-image: url("https://png.pngtree.com/background/20220726/original/pngtree-abstract-white-technology-background-concept-with-various-data-hi-tech-computer-picture-image_1796907.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    border: none;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 60%;
+    font-family: Courier;
+}
+
+
+
+.text9 img {
+    box-shadow: 0 4px 8px rgb(22, 0, 0);
+    border-radius: 15%;
+    width: 100%; /* กำหนดความกว้างของรูปเป็น 100% */
+    height: 200px; /* กำหนดความสูงที่เท่ากัน */
+    object-fit: cover; /* ปรับรูปให้พอดีกับกรอบ โดยไม่ให้บิดเบือน */
+    display: block;
+    margin-left: auto;
+    margin-right: auto; /* ใช้เพื่อให้รูปภาพอยู่กลาง */
+    max-width: 100%;
+}
+
+#location, #phone, #line, #email {
+    font-weight: normal;
+    color: #FF9800;
+}
+footer {
+    background-color: #121212;
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer .contact-info {
+    margin: 10px 0;
+}
+
+footer .contact-info img {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+footer .contact-info a {
+    color: #FF9800;
+    text-decoration: none;
+}
+
+footer .footer {
+    border-top: 1px solid #333333;
+    margin-top: 20px;
+}
